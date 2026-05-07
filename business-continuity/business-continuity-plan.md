@@ -1,85 +1,83 @@
-# 💀 Ransomware Incident Response
+# 🔄 Business Continuity Plan (BCP)
 
 ## Overview
 
-Ransomware attacks are among the most dangerous cybersecurity threats affecting educational institutions due to their impact on service availability and access to critical academic data.
+XYZ Academy applies Business Continuity Planning (BCP) principles to maintain critical academic and administrative operations during cybersecurity incidents, technical failures, or service disruptions.
 
-XYZ Academy applies incident response and recovery procedures to reduce operational disruption and support service restoration during ransomware incidents.
-
----
-
-## Threat Scenario
-
-A staff member opens a malicious attachment disguised as an academic document received through email.
-
-The malware executes and begins encrypting local files and shared academic resources connected to the device.
-
-The affected systems display ransom messages requesting payment in exchange for file decryption.
+The continuity strategy focuses on minimizing operational downtime and maintaining access to essential educational services.
 
 ---
 
-## Potential Impact
+## Continuity Objectives
 
-A successful ransomware attack may result in:
+The BCP process aims to:
 
-- Loss of access to academic records
-- LMS service disruption
-- Encryption of institutional files
-- Operational downtime
-- Delayed academic activities
-
----
-
-## Detection Indicators
-
-Possible ransomware indicators include:
-
-- Unusual file encryption activity
-- Inaccessible documents
-- Unexpected ransom messages
-- Abnormal system performance
-- Sudden file extension changes
-
-Rapid detection helps reduce the spread of ransomware across organizational systems.
+- Maintain critical academic operations
+- Reduce service disruption
+- Support communication during incidents
+- Protect institutional information assets
+- Improve organizational resilience
+- Support recovery coordination
 
 ---
 
-## Incident Response Process
+## Critical Services
 
-| Phase | Response Activity |
+The following services were identified as operationally critical within the academy environment.
+
+| Service | Importance |
 |---|---|
-| Detection | Suspicious encryption activity identified |
-| Containment | Infected device isolated from network |
-| Investigation | Malware source analyzed |
-| Recovery | Backup restoration procedures initiated |
-| Validation | Restored systems verified |
-| Documentation | Incident reviewed and recorded |
+| Learning Management System (LMS) | High |
+| Academic Records System | High |
+| Staff Communication Services | High |
+| Administrative Systems | High |
+| Cloud Backup Services | High |
+| Internet Connectivity | Medium |
 
 ---
 
-## Mitigation Measures
+## Continuity Support Measures
 
-The project environment applies several ransomware mitigation controls:
+To reduce operational disruption during incidents, the organization applies several continuity support measures.
 
-- Offline backup storage
-- Endpoint protection solutions
-- Security awareness training
-- Restricted file-sharing permissions
-- Regular software updates
-- Access control enforcement
+### Examples
 
-These measures help reduce ransomware exposure and improve recovery readiness.
+- Alternative communication methods
+- Temporary offline teaching resources
+- Manual administrative procedures
+- Priority restoration for critical systems
+- Backup access procedures
 
----
-
-## Recovery & Continuity Support
-
-Backup and disaster recovery procedures support service restoration during ransomware incidents.
-
-Critical academic services are prioritized during recovery operations to minimize operational disruption and maintain institutional continuity.
+These measures help maintain essential academic functions during service interruptions.
 
 ---
 
-## Organizational Importance
+## Organizational Responsibilities
 
-Ransomware preparedness improves organizational resilience and helps maintain the availability of critical educational services during cybersecurity incidents.
+| Role | Responsibility |
+|---|---|
+| Management | Support continuity decisions and communication |
+| IT Personnel | Restore systems and coordinate technical recovery |
+| Academic Staff | Continue essential academic activities |
+| Security Personnel | Monitor incidents and support operational coordination |
+
+---
+
+## Communication During Disruptions
+
+Communication procedures are important during operational incidents.
+
+The organization may distribute:
+
+- Service status updates
+- Recovery progress notifications
+- Alternative access instructions
+- Incident awareness notifications
+
+Clear communication helps reduce confusion and improves operational coordination.
+
+---
+
+## Continuity Importance
+
+Business continuity planning improves organizational preparedness and helps ensure that critical educational services remain operational during cybersecurity incidents or infrastructure disruptions.
