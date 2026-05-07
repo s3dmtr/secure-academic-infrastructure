@@ -22,6 +22,16 @@ The project focuses on improving organizational cybersecurity operations and str
 
 ---
 
+## 🎓 Academic Project Development
+
+This project was originally developed as part of the *Information Security Fundamentals* course during the Cybersecurity Diploma program at Imam Mohammad Ibn Saud Islamic University.
+
+The original academic project was later expanded and professionally redesigned into a more structured cybersecurity governance and security operations simulation to improve documentation quality, organizational realism, and portfolio presentation.
+
+The redevelopment process focused on transforming theoretical security concepts into a practical and professionally organized security case study suitable for GitHub portfolio presentation.
+
+---
+
 ## 🛡️ Security Domains Covered
 
 - Security Governance
