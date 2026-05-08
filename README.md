@@ -32,6 +32,46 @@ The redevelopment process focused on transforming theoretical security concepts 
 
 ---
 
+# 🏗️ Security Architecture
+
+![Security Architecture](architecture/security-architecture.png)
+
+The following diagram represents the simulated cybersecurity architecture for XYZ Academy, including governance-focused security operations, identity management, monitoring activities, and organizational protection layers.
+
+---
+
+# 🔐 Trust Zones Architecture
+
+![Trust Zones](architecture/trust-zones.png)
+
+The trust zones model demonstrates how organizational systems, users, administrative services, and sensitive academic data are logically separated to improve protection, monitoring, and controlled access.
+
+---
+
+# 🔑 Identity & Access Management (IAM)
+
+![IAM Flow](architecture/identity-access-flow.png)
+
+The IAM workflow demonstrates how authentication, authorization, multi-factor authentication (MFA), and access approval processes support secure access management within the academy environment.
+
+---
+
+# 🚨 Incident Response Workflow
+
+![Incident Response](architecture/incident-response-workflow.png)
+
+The incident response workflow demonstrates how security events are detected, analyzed, contained, recovered, and documented to support operational security readiness.
+
+---
+
+# 💾 Backup & Recovery Workflow
+
+![Backup & Recovery](architecture/backup-recovery-workflow.png)
+
+The backup and recovery workflow demonstrates how organizational data is protected, restored, and monitored to support operational continuity and disaster recovery readiness.
+
+---
+
 ## 🛡️ Security Domains Covered
 
 - Security Governance
@@ -72,20 +112,6 @@ The environment was designed to address realistic cybersecurity threats commonly
 
 ---
 
-## 🧠 Governance & Security Operations
-
-The project applies multiple governance and operational security concepts, including:
-
-- Role-Based Access Control (RBAC)
-- Least Privilege principles
-- Security monitoring activities
-- Incident escalation workflows
-- Backup & recovery planning
-- Organizational security policies
-- User awareness practices
-
----
-
 ## 📂 Repository Structure
 
 ```txt
@@ -102,40 +128,15 @@ secure-academic-infrastructure/
 
 ---
 
-## 🚨 Simulated Security Scenarios
-
-The project includes simulated incident response scenarios for:
-
-- Phishing attacks
-- Ransomware infections
-- Unauthorized access attempts
-- Service disruption events
-
-These scenarios demonstrate organizational response procedures and operational security coordination.
-
----
-
-## 🔄 Business Continuity & Recovery
-
-The environment includes continuity and recovery planning concepts such as:
-
-- Recovery Time Objective (RTO)
-- Recovery Point Objective (RPO)
-- Backup strategies
-- Service restoration workflows
-- Incident recovery procedures
-
----
-
 ## 📈 Future Improvements
 
 Potential future enhancements for the project include:
 
-- Advanced network segmentation simulation
-- Expanded monitoring visibility
+- Expanded security monitoring activities
 - Additional incident response scenarios
-- Security awareness campaign simulations
 - Enhanced infrastructure visualization
+- Additional governance documentation
+- Awareness campaign simulations
 
 ---
 
