@@ -140,6 +140,14 @@ Potential future enhancements for the project include:
 
 ---
 
+## 📄 Project Report
+
+The complete cybersecurity governance and operations documentation report is available below.
+
+[View Full Report](report/Secure-Academic-Infrastructure-Report.pdf)
+
+---
+
 ## 👨‍💻 Author
 
 **Saad Almutairi**  
